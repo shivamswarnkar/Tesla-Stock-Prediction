@@ -1,4 +1,5 @@
 # Tesla-Stock-Prediction
+Use nbviewer to view complete notebook with plotly charts [Click Here](https://nbviewer.jupyter.org/github/shivamswarnkar/Tesla-Stock-Prediction/blob/master/Tesla%20Stock%20Prediction.ipynb?flush_cache=true)
 ## About
 - **Author** : Shivam Swarnkar
 
